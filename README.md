@@ -7,6 +7,6 @@ Tally Counter with the ability to increase or decrease the count by 1. You can a
 
 ## Authors
 
-* **Allan Blackett** - *Initial work* - [AllanBlackett.com](https://Allanblackett.com)
+* **Allan Blackett** - *Initial work* - [AllanLimitless.com](https://Allanlimitless.com)
 
 
