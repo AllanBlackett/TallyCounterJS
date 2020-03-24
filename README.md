@@ -1,5 +1,5 @@
 # TallyCounterJS
-Tally Counter built with pure JavaScript. [View the app on Codepen](https://)
+Tally Counter built with pure JavaScript. [View the app on Codepen](https://codepen.io/allanlimitless/pen/WNvaXyV)
 
 
 ## Project Description
