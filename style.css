@@ -1,7 +1,33 @@
-.fas {
-  font-size: 30px;
+/* CSS Reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 200px auto;  
+  text-align: center;
+  border: solid 3px #000;
+  width: 500px;
+  height: 500px;
 }
 
 .container p {
-  font-size: 30px;
+  font-size: 60px;
+}
+
+.fas {
+  font-size: 40px;
+  text-align: center;
+  justify-content: center;
+}
+
+.fasWrapper {
+  /* width: 100%; */
+  margin-top: 15px;
+}
+
+#resetButton {
+  margin-top: 15px;
 }
